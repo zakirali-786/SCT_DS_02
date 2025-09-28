@@ -28,5 +28,3 @@ Include your CSV in `data/titanic.csv` — the version used in this project is a
 - Documented key insights and saved figures.
 
 ---
-
-## Folder / File structure (suggested)
